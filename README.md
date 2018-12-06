@@ -63,5 +63,4 @@ pip3 install colorama
 
 _______________
 
-###Siddharth Jain
-####20171169
+Siddharth Jain
